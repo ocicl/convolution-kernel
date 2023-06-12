@@ -1,0 +1,10 @@
+* convolution-kernel
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://git.mfiano.net/mfiano/convolution-kernel.git   |
+| commit  |   |
+| systems | convolution-kernel |
+|---------+-------------------------------------------|
+
